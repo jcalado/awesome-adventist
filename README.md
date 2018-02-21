@@ -1,9 +1,9 @@
 # awesome-adventist
 
-[Web resources](#web-resources)
-[Web templates](#web-resources)
-[Android apps](#android-apps)
-[iOS apps](#android-apps)
+- [Web resources](#web-resources)
+- [Web templates](#web-resources)
+- [Android apps](#android-apps)
+- [iOS apps](#android-apps)
 
 
 A curated list of awesome adventist source code.
