@@ -1,13 +1,15 @@
 # awesome-adventist
+A curated list of awesome adventist source code.
+Either made by adventists or by adventist institutions.
 
+## Contents
 - [Web resources](#web-resources)
 - [Web templates](#web-resources)
 - [Android apps](#android-apps)
 - [iOS apps](#ios-apps)
 
 
-A curated list of awesome adventist source code.
-Either made by adventists or by adventist institutions.
+
 
 ## [Web resources](#web-resources)
   - [ALPS](https://github.com/adventistchurch/alps) - Design Pattern Library
