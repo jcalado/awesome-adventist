@@ -3,7 +3,7 @@
 - [Web resources](#web-resources)
 - [Web templates](#web-resources)
 - [Android apps](#android-apps)
-- [iOS apps](#android-apps)
+- [iOS apps](#ios-apps)
 
 
 A curated list of awesome adventist source code.
@@ -19,3 +19,6 @@ Either made by adventists or by adventist institutions.
 
 ## [Android Apps](#android-apps)
   - [Adventech - Sabbath School Android](https://github.com/Adventech/sabbath-school-android) - Sabbath School Android App
+  
+## [iOS Apps](#ios-apps)
+  - [Adventech - Sabbath School iOS](https://github.com/Adventech/sabbath-school-ios) - Sabbath School iOS App
