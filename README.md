@@ -1,4 +1,4 @@
-# awesome-adventist
+# Awesome Adventist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome adventist source code.
 Either made by adventists or by adventist institutions.
 
