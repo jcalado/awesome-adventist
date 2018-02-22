@@ -38,6 +38,10 @@ Either made by Adventists or by Adventist institutions.
 
 ## [Agencies](#agencies)
 
+  - [Center for Online Evangelism](https://www.centerforonlineevangelism.org/) - Promoting best practices and strategies for Seventh-day Adventist churches, schools and ministries online. 
+  - [Types & Symbols](https://typesandsymbols.com/) - A design agency for Adventist experiences. 
+
+
 ## [Firms](#firms)
 
 - [Center for Innovation and Research in Computing at Southern Adventist University](http://www.southern.edu/circ) -- Experience building native mobile applications, native desktop applications, and PHP/C# MVC websites.
